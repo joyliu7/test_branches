@@ -5,3 +5,5 @@ function checkIDIsValid() {
     return true;
   }
 }
+
+function test1() {}
